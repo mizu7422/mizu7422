@@ -49,3 +49,9 @@
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="40" alt="linux logo"  />
 </div>
+
+###
+
+<img src="https://raw.githubusercontent.com/mizu7422/mizu7422/output/snake.svg" alt="Snake animation" />
+
+###
