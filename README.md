@@ -1,7 +1,3 @@
-<div align="center">
-  <img height="200" src="https://tenor.com/view/hyper-anime-lucky-star-izumi-konata-izumi-gif-20051187.gif"  />
-</div>
-
 ###
 
 <h1 align="left">Hey :D!</h1>
@@ -16,7 +12,7 @@
 
 ###
 
-<p align="left">Still studying, currently making a big project for my dad<br><br>I also use arch btw<br><br>And you should try neovim</p>
+<p align="left">br>I use arch btw<br></p>
 
 ###
 
