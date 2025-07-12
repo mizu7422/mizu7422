@@ -2,17 +2,7 @@
 
 <h1 align="left">Hey :D!</h1>
 
-###
-
-<p align="left">I'm mizu (not my actual name), and I am a fullstack developer from Portugal</p>
-
-###
-
-<h2 align="left">About me</h2>
-
-###
-
-<p align="left">br>I use arch btw<br></p>
+<p align="left"><br>I use arch btw<br></p>
 
 ###
 
